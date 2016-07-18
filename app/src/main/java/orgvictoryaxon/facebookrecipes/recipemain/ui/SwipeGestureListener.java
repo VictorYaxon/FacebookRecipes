@@ -1,7 +1,7 @@
 package orgvictoryaxon.facebookrecipes.recipemain.ui;
 
 /**
- * Created by ykro.
+ * Created by VictorYaxon.
  */
 public interface SwipeGestureListener {
     void onKeep();

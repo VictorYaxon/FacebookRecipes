@@ -1,7 +1,7 @@
 package orgvictoryaxon.facebookrecipes.recipemain;
 
 /**
- * Created by ykro.
+ * Created by VictorYaxon.
  */
 public interface GetNextRecipeInteractor {
     void execute();

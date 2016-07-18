@@ -10,7 +10,7 @@ import com.bumptech.glide.load.engine.DiskCacheStrategy;
 import com.bumptech.glide.request.RequestListener;
 
 /**
- * Created by ykro.
+ * Created by VictorYaxon.
  */
 public class GlideImageLoader implements ImageLoader {
     private RequestManager glideRequestManager;

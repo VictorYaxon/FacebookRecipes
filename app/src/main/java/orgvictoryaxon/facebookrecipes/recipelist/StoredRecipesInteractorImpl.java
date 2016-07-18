@@ -3,7 +3,7 @@ package orgvictoryaxon.facebookrecipes.recipelist;
 import orgvictoryaxon.facebookrecipes.entities.Recipe;
 
 /**
- * Created by ykro.
+ * Created by VictorYaxon.
  */
 public class StoredRecipesInteractorImpl implements StoredRecipesInteractor {
     private RecipeListRepository repository;

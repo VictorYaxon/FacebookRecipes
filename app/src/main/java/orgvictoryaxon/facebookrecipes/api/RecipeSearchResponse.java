@@ -7,7 +7,7 @@ import java.util.List;
 import orgvictoryaxon.facebookrecipes.entities.Recipe;
 
 /**
- * Created by ykro.
+ * Created by VictorYaxon.
  */
 public class RecipeSearchResponse {
     private int count;

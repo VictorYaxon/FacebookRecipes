@@ -18,7 +18,7 @@ import orgvictoryaxon.facebookrecipes.recipemain.SaveRecipeInteractorImpl;
 import orgvictoryaxon.facebookrecipes.recipemain.ui.RecipeMainView;
 
 /**
- * Created by ykro.
+ * Created by VictorYaxon.
  */
 @Module
 public class RecipeMainModule {

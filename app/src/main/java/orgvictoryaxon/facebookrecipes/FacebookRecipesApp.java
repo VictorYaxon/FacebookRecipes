@@ -19,7 +19,7 @@ import orgvictoryaxon.facebookrecipes.recipemain.ui.RecipeMainActivity;
 import orgvictoryaxon.facebookrecipes.recipemain.ui.RecipeMainView;
 
 /**
- * Created by ykro.
+ * Created by VictorYaxon.
  */
 public class FacebookRecipesApp extends Application {
 

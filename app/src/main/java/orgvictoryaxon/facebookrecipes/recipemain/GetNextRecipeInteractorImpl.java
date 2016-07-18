@@ -3,7 +3,7 @@ package orgvictoryaxon.facebookrecipes.recipemain;
 import java.util.Random;
 
 /**
- * Created by ykro.
+ * Created by VictorYaxon.
  */
 public class GetNextRecipeInteractorImpl implements GetNextRecipeInteractor {
     RecipeMainRepository repository;

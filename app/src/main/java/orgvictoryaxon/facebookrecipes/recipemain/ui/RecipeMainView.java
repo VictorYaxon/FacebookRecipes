@@ -3,7 +3,7 @@ package orgvictoryaxon.facebookrecipes.recipemain.ui;
 import orgvictoryaxon.facebookrecipes.entities.Recipe;
 
 /**
- * Created by ykro.
+ * Created by VictorYaxon.
  */
 public interface RecipeMainView {
     void showProgress();

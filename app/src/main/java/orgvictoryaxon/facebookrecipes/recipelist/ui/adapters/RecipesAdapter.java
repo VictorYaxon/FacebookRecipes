@@ -22,7 +22,7 @@ import orgvictoryaxon.facebookrecipes.entities.Recipe;
 import orgvictoryaxon.facebookrecipes.lib.ImageLoader;
 
 /**
- * Created by ykro.
+ * Created by VictorYaxon.
  */
 public class RecipesAdapter extends RecyclerView.Adapter<RecipesAdapter.ViewHolder> {
     List<Recipe> recipes;

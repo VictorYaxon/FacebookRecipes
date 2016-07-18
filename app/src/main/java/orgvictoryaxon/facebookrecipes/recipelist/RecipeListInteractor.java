@@ -1,7 +1,7 @@
 package orgvictoryaxon.facebookrecipes.recipelist;
 
 /**
- * Created by ykro.
+ * Created by VictorYaxon.
  */
 public interface RecipeListInteractor {
     void execute();

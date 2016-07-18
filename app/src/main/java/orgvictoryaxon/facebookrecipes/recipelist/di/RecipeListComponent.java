@@ -8,7 +8,7 @@ import orgvictoryaxon.facebookrecipes.recipelist.RecipeListPresenter;
 import orgvictoryaxon.facebookrecipes.recipelist.ui.adapters.RecipesAdapter;
 
 /**
- * Created by ykro.
+ * Created by VictorYaxon.
  */
 @Singleton
 @Component(modules = {RecipeListModule.class, LibsModule.class})

@@ -3,7 +3,7 @@ package orgvictoryaxon.facebookrecipes.db;
 import com.raizlabs.android.dbflow.annotation.Database;
 
 /**
- * Created by ykro.
+ * Created by VictorYaxon.
  */
 @Database(name = RecipesDatabase.NAME, version = RecipesDatabase.VERSION)
 public class RecipesDatabase {

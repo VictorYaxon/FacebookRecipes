@@ -5,7 +5,7 @@ import orgvictoryaxon.facebookrecipes.recipelist.events.RecipeListEvent;
 import orgvictoryaxon.facebookrecipes.recipelist.ui.RecipeListView;
 
 /**
- * Created by ykro.
+ * Created by VictorYaxon.
  */
 public interface RecipeListPresenter {
     void onCreate();

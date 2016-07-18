@@ -10,7 +10,7 @@ import orgvictoryaxon.facebookrecipes.lib.EventBus;
 import orgvictoryaxon.facebookrecipes.recipelist.events.RecipeListEvent;
 
 /**
- * Created by ykro.
+ * Created by VictorYaxon.
  */
 public class RecipeListRepositoryImpl implements RecipeListRepository {
     private EventBus eventBus;

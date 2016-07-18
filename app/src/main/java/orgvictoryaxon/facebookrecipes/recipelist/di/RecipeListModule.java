@@ -23,7 +23,7 @@ import orgvictoryaxon.facebookrecipes.recipelist.ui.adapters.OnItemClickListener
 import orgvictoryaxon.facebookrecipes.recipelist.ui.adapters.RecipesAdapter;
 
 /**
- * Created by ykro.
+ * Created by VictorYaxon.
  */
 @Module
 public class RecipeListModule {

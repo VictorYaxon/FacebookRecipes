@@ -5,7 +5,7 @@ import orgvictoryaxon.facebookrecipes.recipemain.events.RecipeMainEvent;
 import orgvictoryaxon.facebookrecipes.recipemain.ui.RecipeMainView;
 
 /**
- * Created by ykro.
+ * Created by VictorYaxon.
  */
 public interface RecipeMainPresenter {
     void onCreate();

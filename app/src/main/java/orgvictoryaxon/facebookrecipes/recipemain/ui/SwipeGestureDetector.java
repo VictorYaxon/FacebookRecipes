@@ -4,7 +4,7 @@ import android.view.GestureDetector;
 import android.view.MotionEvent;
 
 /**
- * Created by ykro.
+ * Created by VictorYaxon.
  */
 public class SwipeGestureDetector extends GestureDetector.SimpleOnGestureListener  {
     private static final int SWIPE_THRESHOLD = 100;

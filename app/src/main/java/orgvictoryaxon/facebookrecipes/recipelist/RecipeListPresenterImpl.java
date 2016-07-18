@@ -8,7 +8,7 @@ import orgvictoryaxon.facebookrecipes.recipelist.events.RecipeListEvent;
 import orgvictoryaxon.facebookrecipes.recipelist.ui.RecipeListView;
 
 /**
- * Created by ykro.
+ * Created by VictorYaxon.
  */
 public class RecipeListPresenterImpl implements RecipeListPresenter {
     private EventBus eventBus;

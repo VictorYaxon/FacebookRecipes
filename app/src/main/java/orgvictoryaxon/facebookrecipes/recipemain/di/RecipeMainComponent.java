@@ -8,7 +8,7 @@ import orgvictoryaxon.facebookrecipes.lib.di.LibsModule;
 import orgvictoryaxon.facebookrecipes.recipemain.RecipeMainPresenter;
 
 /**
- * Created by ykro.
+ * Created by VictorYaxon.
  */
 @Singleton
 @Component(modules = {RecipeMainModule.class, LibsModule.class})

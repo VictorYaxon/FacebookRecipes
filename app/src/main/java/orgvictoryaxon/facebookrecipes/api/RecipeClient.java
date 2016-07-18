@@ -4,7 +4,7 @@ import retrofit2.Retrofit;
 import retrofit2.converter.gson.GsonConverterFactory;
 
 /**
- * Created by ykro.
+ * Created by VictorYaxon.
  */
 public class RecipeClient {
     private Retrofit retrofit;

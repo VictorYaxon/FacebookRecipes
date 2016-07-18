@@ -5,7 +5,7 @@ import retrofit2.http.GET;
 import retrofit2.http.Query;
 
 /**
- * Created by ykro.
+ * Created by VictorYaxon.
  */
 public interface RecipeService {
     @GET("search")

@@ -12,7 +12,7 @@ import orgvictoryaxon.facebookrecipes.lib.GreenRobotEventBus;
 import orgvictoryaxon.facebookrecipes.lib.ImageLoader;
 
 /**
- * Created by ykro.
+ * Created by VictorYaxon.
  */
 @Module
 public class LibsModule {

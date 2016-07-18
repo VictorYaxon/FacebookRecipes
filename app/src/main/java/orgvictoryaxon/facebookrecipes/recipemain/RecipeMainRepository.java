@@ -3,7 +3,7 @@ package orgvictoryaxon.facebookrecipes.recipemain;
 import orgvictoryaxon.facebookrecipes.entities.Recipe;
 
 /**
- * Created by ykro.
+ * Created by VictorYaxon.
  */
 public interface RecipeMainRepository {
     public final static int COUNT = 1;

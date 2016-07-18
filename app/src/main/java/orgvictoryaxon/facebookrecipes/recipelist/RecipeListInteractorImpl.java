@@ -1,7 +1,7 @@
 package orgvictoryaxon.facebookrecipes.recipelist;
 
 /**
- * Created by ykro.
+ * Created by VictorYaxon.
  */
 public class RecipeListInteractorImpl implements RecipeListInteractor {
     private RecipeListRepository repository;

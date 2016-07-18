@@ -9,7 +9,7 @@ import com.raizlabs.android.dbflow.structure.BaseModel;
 import orgvictoryaxon.facebookrecipes.db.RecipesDatabase;
 
 /**
- * Created by ykro.
+ * Created by VictorYaxon.
  */
 @Table(database = RecipesDatabase.class)
 public class Recipe extends BaseModel {
